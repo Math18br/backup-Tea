@@ -20,11 +20,12 @@ export function Start04() {
     <HomeContainer>
       <TeaIcon width={150} height={100} />
       <ContentsWrapper>
-        <HeadFone width={300} height={320} />
+        <HeadFone width={320} height={320} />
         <TitleWrapper>
           <Title>
-            Olá! Este é o TEA APP. Um aplicativo criado para auxiliar pais e
-            cuidadores de crianças com Transtorno de Espectro Autista - TEA.
+            Caso a criança se sinta confortável, recomenda-se o uso de fones de
+            ouvido para uma melhor experiência ao acessar as músicas
+            selecionadas pelos profissionais como ferramenta auxiliar.
           </Title>
         </TitleWrapper>
       </ContentsWrapper>

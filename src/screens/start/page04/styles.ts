@@ -17,7 +17,7 @@ export const ContentsWrapper = styled.View`
 `
 
 export const TitleWrapper = styled.View`
-  width: 282px;
+  width: 322px;
   height: 105px;
 `
 export const BtnNext = styled.TouchableOpacity`

@@ -4,7 +4,7 @@ export const IconContainer = styled.View`
   position: absolute;
   width: 124px;
   height: 63px;
-  left: 128;
+  left: 135px;
   top: 40px;
   padding-bottom: 10px;
   background: #f2f2f2;

@@ -31,7 +31,7 @@ export function Menu01() {
         </MenuBnt>
         <MenuBnt onPress={InfoSobreTEA}>
           <Information />
-          <Title>Informaçoens sobre o TEA</Title>
+          <Title>Informações sobre o TEA</Title>
         </MenuBnt>
       </Line>
       <Line>

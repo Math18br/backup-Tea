@@ -10,7 +10,7 @@ export const Line = styled.View`
   justify-content: space-between;
 
   padding: 30px;
-  top: 90px;
+  top: 150px;
 `
 export const Collum = styled.View`
   flex-direction: column;

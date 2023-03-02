@@ -23,8 +23,9 @@ export function Start03() {
         <Thinkin width={300} height={320} />
         <TitleWrapper>
           <Title>
-            Olá! Este é o TEA APP. Um aplicativo criado para auxiliar pais e
-            cuidadores de crianças com Transtorno de Espectro Autista - TEA.
+            Nele você encontrará informações de profissionais especialistas no
+            assunto sobre nutrição adequada e principais sinais apresentados
+            pela criança com autismo.
           </Title>
         </TitleWrapper>
       </ContentsWrapper>

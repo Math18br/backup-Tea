@@ -8,6 +8,7 @@ import {
 } from '../../../components/InfoCards/styles'
 import { NavigaterMenu } from '../../../components/MenuDeNav'
 import { TeaIcon } from '../../../components/TEAICON'
+
 export function FoodInfo() {
   return (
     <HomeContainer>

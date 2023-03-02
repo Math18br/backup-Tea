@@ -5,7 +5,7 @@ export const NavMenu = styled.View`
   width: 300px;
   height: 63px;
   left: 44px;
-  top: 620px;
+  top: 695px;
   padding-bottom: 10px;
   background: #f2f2f2;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);

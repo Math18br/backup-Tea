@@ -4,7 +4,7 @@ export const CardBox = styled.View`
   box-sizing: border-box;
 
   width: 330px;
-  height: 500px;
+  height: 505px;
   /* left: 34px;
   top: 130px; */
   top: -60px;
@@ -19,9 +19,10 @@ export const CarBoxText = styled.Text`
   font-weight: 900;
   font-size: 14px;
   line-height: 16px;
-  margin-left: 10;
-  margin-bottom: 10;
-  margin-top: 10;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  margin-right: 10px;
 `
 
 export const HomeContainer = styled.View`
